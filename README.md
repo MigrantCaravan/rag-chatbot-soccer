@@ -2,7 +2,7 @@
 
 RAG Chatbot created to response questions about profesional colombian soccer.
 
-![Screenshot](/public/Screenshot.png)
+![Screenshot](/public/screenshot.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
